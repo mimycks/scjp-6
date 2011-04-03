@@ -1,0 +1,9 @@
+To checkout the project : git clone git@github.com:lepnio/scjp-6.git
+
+Each chapter is put in a different project.
+
+Do not commit Eclipse, Intellij, or NetBeans specific files.
+
+Respect the following package convention : scjp.chapter.<number>.<your-name>
+
+Thank you.
